@@ -13,6 +13,10 @@ class LoginPage extends StatelessWidget {
             icon: Icon(Icons.power_settings_new),
             onPressed: () {},
           ),
+          IconButton(
+            icon: Icon(Icons.edit),
+            onPressed: () {},
+          ),
         ],
       ),
       backgroundColor: kMainBackgroundColor,
